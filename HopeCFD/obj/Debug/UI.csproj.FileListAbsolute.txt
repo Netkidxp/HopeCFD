@@ -1,0 +1,10 @@
+E:\WorkSpaces\HopeCFD\HopeCFD\bin\Debug\HopeCFD.exe.config
+E:\WorkSpaces\HopeCFD\HopeCFD\bin\Debug\HopeCFD.exe
+E:\WorkSpaces\HopeCFD\HopeCFD\bin\Debug\HopeCFD.pdb
+E:\WorkSpaces\HopeCFD\HopeCFD\obj\Debug\HopeCFD.MainForm.resources
+E:\WorkSpaces\HopeCFD\HopeCFD\obj\Debug\HopeCFD.Properties.Resources.resources
+E:\WorkSpaces\HopeCFD\HopeCFD\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\WorkSpaces\HopeCFD\HopeCFD\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\WorkSpaces\HopeCFD\HopeCFD\obj\Debug\HopeCFD.exe
+E:\WorkSpaces\HopeCFD\HopeCFD\obj\Debug\HopeCFD.pdb
+E:\WorkSpaces\HopeCFD\HopeCFD\obj\Debug\UI.csprojResolveAssemblyReference.cache

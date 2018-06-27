@@ -1,0 +1,8 @@
+E:\WorkSpaces\HopeCFD\TupleProject\bin\Debug\Tuple.dll
+E:\WorkSpaces\HopeCFD\TupleProject\bin\Debug\Tuple.pdb
+E:\WorkSpaces\HopeCFD\TupleProject\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+E:\WorkSpaces\HopeCFD\TupleProject\obj\Debug\Tuple.dll
+E:\WorkSpaces\HopeCFD\TupleProject\obj\Debug\Tuple.pdb
+E:\WorkSpaces\HopeCFD\TupleProject\bin\Debug\OpenCFD.dll
+E:\WorkSpaces\HopeCFD\TupleProject\bin\Debug\OpenCFD.pdb
+E:\WorkSpaces\HopeCFD\TupleProject\obj\Debug\Tuple.csprojResolveAssemblyReference.cache

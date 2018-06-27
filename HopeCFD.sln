@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "HopeCFD\UI.csproj", "{B5EBC3DA-34E4-4A40-87BC-20E32C4E831D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCFD", "OpenCFD\OpenCFD.csproj", "{D458231B-59D4-43E5-915F-BBC82E2EE030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{43E64BB5-A243-49FC-98BA-A6A1BAF97FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "TupleProject\Tuple.csproj", "{EF0603F5-6865-40B6-8E83-EC38C5995676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EBC3DA-34E4-4A40-87BC-20E32C4E831D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBC3DA-34E4-4A40-87BC-20E32C4E831D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBC3DA-34E4-4A40-87BC-20E32C4E831D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBC3DA-34E4-4A40-87BC-20E32C4E831D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D458231B-59D4-43E5-915F-BBC82E2EE030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D458231B-59D4-43E5-915F-BBC82E2EE030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D458231B-59D4-43E5-915F-BBC82E2EE030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D458231B-59D4-43E5-915F-BBC82E2EE030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E64BB5-A243-49FC-98BA-A6A1BAF97FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E64BB5-A243-49FC-98BA-A6A1BAF97FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E64BB5-A243-49FC-98BA-A6A1BAF97FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E64BB5-A243-49FC-98BA-A6A1BAF97FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0603F5-6865-40B6-8E83-EC38C5995676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0603F5-6865-40B6-8E83-EC38C5995676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0603F5-6865-40B6-8E83-EC38C5995676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0603F5-6865-40B6-8E83-EC38C5995676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B83EE2A-9E57-473C-B2DA-2E6E165C9813}
+	EndGlobalSection
+EndGlobal

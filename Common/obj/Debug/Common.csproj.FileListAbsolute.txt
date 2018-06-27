@@ -1,0 +1,5 @@
+E:\WorkSpaces\HopeCFD\Common\bin\Debug\HopeCFD.Common.dll
+E:\WorkSpaces\HopeCFD\Common\bin\Debug\HopeCFD.Common.pdb
+E:\WorkSpaces\HopeCFD\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\WorkSpaces\HopeCFD\Common\obj\Debug\HopeCFD.Common.dll
+E:\WorkSpaces\HopeCFD\Common\obj\Debug\HopeCFD.Common.pdb

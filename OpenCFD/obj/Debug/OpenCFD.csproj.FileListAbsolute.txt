@@ -1,0 +1,5 @@
+E:\WorkSpaces\HopeCFD\OpenCFD\obj\Debug\OpenCFD.csproj.CoreCompileInputs.cache
+E:\WorkSpaces\HopeCFD\OpenCFD\bin\Debug\OpenCFD.dll
+E:\WorkSpaces\HopeCFD\OpenCFD\bin\Debug\OpenCFD.pdb
+E:\WorkSpaces\HopeCFD\OpenCFD\obj\Debug\OpenCFD.dll
+E:\WorkSpaces\HopeCFD\OpenCFD\obj\Debug\OpenCFD.pdb
